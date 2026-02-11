@@ -3,16 +3,7 @@
 🎓 **Data Science Engineer** student at **INSEA**
 📊 **Delegate** of the DS-MOI program
 🔥 **Vice-President of Events** & **Head of Sponsoring** @ EPIK Leaders
-💡 Passionate about turning raw data into smart, real-time solutions
-
----
-
-## 🛠️ What I'm Working On
-
-- 🛡️ **Fraud Detection:** Building a real-time system using **Apache Spark**.
-- 📈 **FinTech:** Exploring portfolio management and economic modeling.
-- 🕸️ **Automation:** Improving my custom scrapers for e-commerce platforms like Jumia.
-- ⚡ **Optimization:** Constantly refactoring my code for maximum performance.
+💡 Passionate about turning raw data into smart, real-time solutions  
 
 ---
 
